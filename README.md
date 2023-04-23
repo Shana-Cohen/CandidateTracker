@@ -1,7 +1,7 @@
 # CandidateTrackerReactBookmarks
 Objective:
 
-The assignment was to create a website that allows users to log into their accounts to bookmark URLs as well as to view their previously saved bookmarks. Users also have the option to delete bookmarks, and to rename them. The homepage is visible to all, and displays the five most popular bookmarks.
+This project is intended as a Candidate Tracker. The goal is for a user to be able to add candidates, add notes and details for them, and then either accept or reject them, and then to keep track of the lists and current status (i.e., pending, accepted, or rejected) of all candidates. 
 
 Solution:
 
